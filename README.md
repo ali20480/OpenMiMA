@@ -1,1 +1,1 @@
-# OpenNEMA
+# OpenMiMA
